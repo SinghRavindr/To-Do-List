@@ -1,6 +1,5 @@
 # To-Do-List
 A simple and interactive To-Do List application built using HTML, CSS, and JavaScript.  
-
 This project helps users manage daily tasks efficiently while practicing core frontend concepts.
 
 ---
@@ -16,7 +15,7 @@ This project helps users manage daily tasks efficiently while practicing core fr
 
 ## 🛠️ Technologies Used
 
-- 🌐 **HTML** – Structure of the app  
+- 🌐 **HTML** – Structure of app  
 - 🎨 **CSS** – Styling and layout  
 - ⚙️ **JavaScript** – Logic and interactivity  
 
